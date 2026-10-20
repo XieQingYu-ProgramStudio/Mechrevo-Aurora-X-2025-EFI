@@ -1,9 +1,10 @@
 # Third-Party Notices
 
 This repository redistributes binaries produced by third-party projects. The
-MIT license in [LICENSE](LICENSE) applies only to original documentation and
-the sanitized configuration edits made for this repository. It does not
-replace or override any upstream license.
+GNU General Public License v3.0 in [LICENSE](LICENSE) applies to the original
+documentation, configuration arrangement, and sanitized configuration edits
+made for this repository. It does not replace or override any upstream
+license.
 
 ## Components
 

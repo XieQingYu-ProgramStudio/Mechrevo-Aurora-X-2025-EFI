@@ -240,8 +240,11 @@ NullMothSafe.efi
 
 ## 第三方组件
 
-本仓库只对整理后的配置和文档进行授权。OpenCore、内核扩展、驱动和工具分别遵循
-各自上游项目的许可证。组件来源与许可证入口见
+本仓库原创的文档、配置整理和适配内容使用
+[GNU General Public License v3.0](LICENSE) 授权。
+
+OpenCore、内核扩展、驱动和工具是第三方组件，分别遵循各自上游项目的许可证；
+GPLv3 不会替代或修改这些上游许可证。组件来源与许可证入口见
 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
 
 ## 致谢
